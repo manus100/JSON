@@ -1,0 +1,10 @@
+[{"firstName":"Brandon", "lastName":"Jones", "keyboardShortcut":"Control Shift Escape",
+    "software":"Windows","whatDo":"Open Control Panel"
+},
+{
+    "firstName":"Brenda","lastName":"Smith","keyboardShortcut":"Control Z",
+    "software":"Windows","whatDo":"Undo an action"
+},{
+    "firstName":"James","lastName":"Rose","keyboardShortcut":"Control Shift N",
+    "software":"Windows","whatDo":"Create new folder"
+}]
